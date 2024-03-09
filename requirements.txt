@@ -1,0 +1,7 @@
+tkinter
+filedialog
+json
+tk._setit
+tkinter.scrolledtext
+tkinter.messagebox
+tkinter.simpledialog
