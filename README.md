@@ -49,6 +49,31 @@
 
 4. **Save Data:**
    - Select an array from the dropdown, enter name-value pairs, and click the "Save Data" button.
+  
+   - 
+# Installing and Running the Program
+
+## Step 1: Download the Program
+
+```
+git clone https://github.com/your-username/your-repository.githttps://github.com/PROF0X01/PR0F_JSON_FileDate
+cd PR0F_JSON_FileDate
+```
+
+## Step 2: Install Requirements
+
+```
+pip install -r requirements.txt
+```
+
+This command will install all the libraries listed in the `requirements.txt` file.
+
+## Step 3: run PR0F_JSON_FileDate.py
+
+
+```
+python3 PR0F_JSON_FileDate.py
+```
 
 ### Notes:
 
