@@ -63,7 +63,7 @@ cd PR0F_JSON_FileDate
 ## Step 2: Install Requirements
 
 ```
-pip install -r requirements.txt
+pip3 install -r requirements.txt
 ```
 
 This command will install all the libraries listed in the `requirements.txt` file.
