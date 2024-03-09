@@ -1,4 +1,5 @@
-#Welcome to PR0F_JSON_FileDate 🌐
+#Welcome to PR0F_JSON_FileDate 
+
 `PR0F_JSON_FileDate.py`, is a JSON editor built using the Tkinter library. It provides a graphical user interface (GUI) for easily manipulating and adding data to JSON files. Here's an overview of its features:
 
 ### Key Features:
