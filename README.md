@@ -56,7 +56,7 @@
 ## Step 1: Download the Program
 
 ```
-git clone https://github.com/your-username/your-repository.githttps://github.com/PROF0X01/PR0F_JSON_FileDate
+git clone https://github.com/PR0F0X01/PR0F_JSON_FileDate
 cd PR0F_JSON_FileDate
 ```
 
