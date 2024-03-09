@@ -80,4 +80,4 @@ python3 PR0F_JSON_FileDate.py
 - The program ensures proper matching of names and values during data entry.
 - Exception handling is implemented to manage potential errors like invalid JSON format or missing files.
 
-Feel free to utilize this JSON editor to streamline your JSON file manipulation tasks. For any assistance,  [@pr0f0x01] (https://twitter.com/pr0f0x01). 
+Feel free to utilize this JSON editor to streamline your JSON file manipulation tasks. For any assistance,  [[twitter](https://twitter.com/pr0f0x01)] 
